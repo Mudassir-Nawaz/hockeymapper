@@ -1,7 +1,7 @@
 ---
 layout              : page
-title               : "News"
-meta_title          : "News from around the hockey world"
+title               : "News from around the hockey world"
+meta_title          : "News"
 # subheadline         : 
 # teaser              : "Get in touch with me? Use the contact form."
 permalink           : "/news/"
